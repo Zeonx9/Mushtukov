@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TinkoffFintechLab</string>
+    <string name="network_error_message">Произошла ошибка при загрузке данных, проверьте подключение к сети</string>
+    <string name="no_favorites_message">Нет сохраненных фильмов</string>
+    <string name="favorites_screen_title">Избранное</string>
+    <string name="home_screen_title">Популярное</string>
+    <string name="empty_search_message">Ничего не найдено</string>
+    <string name="search_screen_title">Поиск по названию</string>
+    <string name="up_icon_descritption">Иконка назад</string>
+    <string name="no_film_details_message">Фильм не выбран</string>
+    <string name="poster_content_description">постер для фильма</string>
+</resources>
